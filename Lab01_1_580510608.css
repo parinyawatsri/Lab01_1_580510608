@@ -1,0 +1,62 @@
+/*
+* @Author: CSB307
+* @Date:   2016-05-23 10:11:36
+* @Last Modified by:   usaka
+* @Last Modified time: 2016-05-24 00:21:49
+*/
+
+.mbd {
+    color: green !important;
+}
+
+* {
+    color: lightblue;
+    text-align: center;
+}
+
+.weekend {
+    color: red !important;
+}
+
+h1 {
+    color: brown;
+    border: 5px solid green;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-size: 25px;
+    border-collapse: collapse;
+    border-width: 2px;
+}
+
+.sun {
+    color: red
+}
+
+.mon {
+    color: yellow
+}
+
+.tu {
+    color: pink
+} 
+
+.we {
+    color: lightgreen
+}
+
+.th{
+    color: orange
+}
+
+.fr {
+    color: blue
+}
+
+.sa {
+    color: purple
+}
